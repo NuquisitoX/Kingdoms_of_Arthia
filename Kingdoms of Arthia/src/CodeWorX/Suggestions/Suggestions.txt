@@ -1,0 +1,6 @@
+- Main Engine -
+	> RTS element to it, have a city editor which lets you build cities for resources
+	> Resources gathered: wood,stone,dirt (main)
+	> Farming
+	> Monster slaying
+	> Quests
